@@ -1,0 +1,11 @@
+{
+    "name":"landserver",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"1.2.3"
+        , "generic-pool": "<1.0.9"
+        , "mysql": ">=2.0"
+    }
+}
+
